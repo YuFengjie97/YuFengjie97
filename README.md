@@ -25,3 +25,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuFengjie97&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuFengjie97&theme=radical)
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuFengjie97&layout=compact&langs_count=10&theme=radical)
+
+#### 微信
+<img style="width: 400px;" src='/assets/wechat.jpg'/>
